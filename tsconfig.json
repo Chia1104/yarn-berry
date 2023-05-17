@@ -17,6 +17,6 @@
       "strict": true
     },
     "include": ["src"],
-    "exclude": [".yarn"]
+    "exclude": [".yarn", "node_modules"]
 }
   
